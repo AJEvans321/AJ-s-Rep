@@ -1,8 +1,3 @@
-# AJ-s-Rep
-# React Parent-Child Interaction App
-
-This is a simple React app demonstrating communication between a parent component and child components using props and event handling.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
